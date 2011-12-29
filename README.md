@@ -8,6 +8,29 @@ This is a template for a development project's working folder that follows the C
 * Version: 1.0
 * Released: pending
 
+### License
+
+This project is released under the License.
+
+### Tools & Files
+
+Different tools are used to generate the documents or are suggested hereby. The files and their format are also explained.
+
+#### Tools
+
+The tools used or suggested are:
+
+* Microsoft Word&copy; 2010
+* * Preferred word processor for the document templates. | Alternatives: LibreOffice Writer, OpenOffice Writer.
+* 
+
+#### Files
+
+* Document Templates
+* * Extension: .dotx | Format: Microsoft Word&copy; 2010
+* * Take into account that any of the alternatives to open this document could not display the formatting correctly.
+* 
+
 ## CMMI Maturity Level 2
 
 This project folder structure is based on the [CMMI-DEV v1.3 Technical Report](http://www.sei.cmu.edu/library/abstracts/reports/10tr033.cfm) released on November 2010 by the [Software Engineering Institute](http://www.sei.cmu.edu) of the [Carnegie Mellon University](http://www.cmu.edu).
@@ -155,10 +178,66 @@ The purpose of Supplier Agreement Management (SAM) is to manage the acquisition 
 
 ## Unified Process
 
-This folder structure is based on the process model of the [Unified Process](http://en.wikipedia.org/wiki/Unified_Process) which defines the process as a use case directed, architectural centric process driven by an iterative incremental live cycle.
+This folder structure is based on the software development process framework [Unified Process](http://en.wikipedia.org/wiki/Unified_Process) which defines the development as a use case driven, architecture centric process using an iterative and incremental live cycle.
+
+The Unified Process divides the project into four phases:
+
+* Inception
+* Elaboration
+* Construction
+* Transition
+
+### Inception Phase
+
+Inception is the smallest phase in the project, and ideally it should be quite short. If the Inception Phase is long then it may be an indication of excessive up-front specification, which is contrary to the spirit of the Unified Process.
+
+The following are typical goals for the Inception phase.
+
+* Establish a justification or business case for the project
+* Establish the project scope and boundary conditions
+* Outline the use cases and key requirements that will drive the design tradeoffs
+* Outline one or more candidate architectures
+* Identify risks
+* Prepare a preliminary project schedule and cost estimate
+
+The Lifecycle Objective Milestone marks the end of the Inception phase.
+
+Develop an approximate vision of the system, make the business case, define the scope, and produce rough estimate for cost and schedule.
+
+### Elaboration Phase
+
+During the Elaboration phase the project team is expected to capture a healthy majority of the system requirements. However, the primary goals of Elaboration are to address known risk factors and to establish and validate the system architecture. Common processes undertaken in this phase include the creation of use case diagrams, conceptual diagrams (class diagrams with only basic notation) and package diagrams (architectural diagrams).
+
+The architecture is validated primarily through the implementation of an Executable Architecture Baseline. This is a partial implementation of the system which includes the core, most architecturally significant, components. It is built in a series of small, timeboxed iterations. By the end of the Elaboration phase the system architecture must have stabilized and the executable architecture baseline must demonstrate that the architecture will support the key system functionality and exhibit the right behavior in terms of performance, scalability and cost.
+
+The final Elaboration phase deliverable is a plan (including cost and schedule estimates) for the Construction phase. At this point the plan should be accurate and credible, since it should be based on the Elaboration phase experience and since significant risk factors should have been addressed during the Elaboration phase.
+
+### Construction Phase
+
+Construction is the largest phase in the project. In this phase the remainder of the system is built on the foundation laid in Elaboration. System features are implemented in a series of short, timeboxed iterations. Each iteration results in an executable release of the software. It is customary to write full text use cases during the construction phase and each one becomes the start of a new iteration. Common UML (Unified Modelling Language) diagrams used during this phase include Activity, Sequence, Collaboration, State (Transition) and Interaction Overview diagrams.
+
+### Transition Phase
+
+The final project phase is Transition. In this phase the system is deployed to the target users. Feedback received from an initial release (or initial releases) may result in further refinements to be incorporated over the course of several Transition phase iterations. The Transition phase also includes system conversions and user training.
+
+There are many refinements of the Unified Process that can be found [here](http://en.wikipedia.org/wiki/Unified_Process#Refinements_and_Variations).
 
 ## Contents & Usage
 
+The contents of this package are explained here.
+
 ### Folder Structure
+
+The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows:
+
+* Architecture: Contains all the project's architecture files (UML, models, classes, prototipes, ... ).
+* Development: Contains all the project's development files (source code).
+* Deliverables: Contains all the project's deliverables (including compiled releases of source code).
+* Maintenance: Contains all the project's maintenance cycle files.
+* Management: Contains all the project's files related to the project's management.
+* Policies: Contains all the policies that should be observed by the whole process of the project.
+* Precedents: Contains all the files obtained from the client related to the project (including the project's request format).
+* References: Contains all the reference materials for the project (links, publications, technical reports, specs, ...).
+* Templates: Contains all the templates to be used by the documents/files/diagrams of the project.
 
 ### Templates
