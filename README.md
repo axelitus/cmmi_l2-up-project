@@ -1,6 +1,6 @@
-# CMMI ML2 with UP - Development Project Working Folder
+# CMMI ML2 using UP - Development Project Working Folder
 
-This is a template for a development project's working folder that follows the CMMI Maturity Level 2 best practices based on the Unified Process model. This includes the basic folder structure to organize the project's documents and the document templates that should be used throughout the whole process.
+This is a template for a development project's working folder that follows the CMMI Maturity Level 2 best practices using the Unified Process model framework. This includes the basic folder structure to organize the project's documents and the document templates that should be used throughout the whole process.
 
 ## General Information
 
