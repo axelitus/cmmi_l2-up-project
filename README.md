@@ -61,13 +61,13 @@ The purpose of Configuration Management (CM) is to establish and maintain the in
 
 ##### SG 2 - Changes to the work products under configuration management are tracked and controlled.
 
-* SP 2.1 Track change requests for configuration items.
-* SP 2.2 Control changes to configuration items.
+* SP 2.1 - Track change requests for configuration items.
+* SP 2.2 - Control changes to configuration items.
 
 ##### SG 3 - Integrity of baselines is established and maintained.
 
-* SP 3.1 Establish and maintain records describing configuration items.
-* SP 3.2 Perform configuration audits to maintain the integrity of configuration baselines.
+* SP 3.1 - Establish and maintain records describing configuration items.
+* SP 3.2 - Perform configuration audits to maintain the integrity of configuration baselines.
 
 #### Measurement and Analysis (MA)
 
@@ -75,17 +75,17 @@ The purpose of Measurement and Analysis (MA) is to develop and sustain a measure
 
 ##### SG 1 - Measurement objectives and activities are aligned with identified information needs and objectives.
 
-* SP 1.1 Establish and maintain measurement objectives derived from identified information needs and objectives.
-* SP 1.2 Specify measures to address measurement objectives.
-* SP 1.3 Specify how measurement data are obtained and stored.
-* SP 1.4 Specify how measurement data are analyzed and communicated.
+* SP 1.1 - Establish and maintain measurement objectives derived from identified information needs and objectives.
+* SP 1.2 - Specify measures to address measurement objectives.
+* SP 1.3 - Specify how measurement data are obtained and stored.
+* SP 1.4 - Specify how measurement data are analyzed and communicated.
 
 ##### SG 2 - Measurement results, which address identified information needs and objectives, are provided.
 
-* SP 2.1 Obtain specified measurement data.
-* SP 2.2 Analyze and interpret measurement data.
-* SP 2.3 Manage and store measurement data, measurement specifications, and analysis results.
-* SP 2.4 Communicate results of measurement and analysis activities to all relevant stakeholders.
+* SP 2.1 - Obtain specified measurement data.
+* SP 2.2 - Analyze and interpret measurement data.
+* SP 2.3 - Manage and store measurement data, measurement specifications, and analysis results.
+* SP 2.4 - Communicate results of measurement and analysis activities to all relevant stakeholders.
 
 #### Project Monitoring and Control (PMC)
 
