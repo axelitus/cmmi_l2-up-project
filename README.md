@@ -28,7 +28,7 @@ The tools used or suggested are:
 
 * Document Templates
 	* Extension: .dotx | Format: Microsoft Word&copy; 2010
-	* Take into account that any of the alternatives to open this document could not display the formatting correctly.
+	* Take into account that any of the alternatives may not display this document's formatting correctly.
 * 
 
 ## CMMI Maturity Level 2
@@ -230,14 +230,14 @@ The contents of this package are explained here.
 
 The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows:
 
-* Architecture: Contains all the project's architecture files (UML, models, classes, prototipes, ... ).
-* Development: Contains all the project's development files (source code).
-* Deliverables: Contains all the project's deliverables (including compiled releases of source code).
-* Maintenance: Contains all the project's maintenance cycle files.
-* Management: Contains all the project's files related to the project's management.
-* Policies: Contains all the policies that should be observed by the whole process of the project.
-* Precedents: Contains all the files obtained from the client related to the project (including the project's request format).
-* References: Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
-* Templates: Contains all the templates to be used by the documents/files/diagrams of the project.
+* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototipes, ... ).
+* **Development:** Contains all the project's development files (source code).
+* **Deliverables:** Contains all the project's deliverables (including compiled releases of source code).
+* **Maintenance:** Contains all the project's maintenance cycle files.
+* **Management:** Contains all the project's files related to the project's management.
+* **Policies:** Contains all the policies that should be observed by the whole process of the project.
+* **Precedents:** Contains all the files obtained from the client related to the project (including the project's request format).
+* **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
+* **Templates:** Contains all the templates to be used by the documents/files/diagrams of the project.
 
 ### Templates
