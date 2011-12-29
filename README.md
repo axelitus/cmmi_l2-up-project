@@ -21,14 +21,14 @@ Different tools are used to generate the documents or are suggested hereby. The 
 The tools used or suggested are:
 
 * Microsoft Word&copy; 2010
-* * Preferred word processor for the document templates. | Alternatives: LibreOffice Writer, OpenOffice Writer.
+	* Preferred word processor for the document templates. | Alternatives: LibreOffice Writer, OpenOffice Writer.
 * 
 
 #### Files
 
 * Document Templates
-* * Extension: .dotx | Format: Microsoft Word&copy; 2010
-* * Take into account that any of the alternatives to open this document could not display the formatting correctly.
+	* Extension: .dotx | Format: Microsoft Word&copy; 2010
+	* Take into account that any of the alternatives to open this document could not display the formatting correctly.
 * 
 
 ## CMMI Maturity Level 2
@@ -237,7 +237,7 @@ The folder structure is divided and organized by content and not by process step
 * Management: Contains all the project's files related to the project's management.
 * Policies: Contains all the policies that should be observed by the whole process of the project.
 * Precedents: Contains all the files obtained from the client related to the project (including the project's request format).
-* References: Contains all the reference materials for the project (links, publications, technical reports, specs, ...).
+* References: Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
 * Templates: Contains all the templates to be used by the documents/files/diagrams of the project.
 
 ### Templates
