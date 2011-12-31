@@ -62,6 +62,6 @@ Las herramientas utilizadas o sugeridas son:
 
 ## Further Information / Más información
 
-For further information please read the README-EN.md file, as this contains a short description of CMMI L2 and UP along with the description of the contents and usage of this package.
+For further information please read the en/README.md file, as this contains a short description of CMMI L2 and UP along with the description of the contents and usage of this package.
 
-Para más información por favor lea el archivo README-ES.md ya que contiene una breve descripción de CMMI N2 y UP junto con la descripción del contenido y utilización de este paquete.
+Para más información por favor lea el archivo es/README.md ya que contiene una breve descripción de CMMI N2 y UP junto con la descripción del contenido y utilización de este paquete.
