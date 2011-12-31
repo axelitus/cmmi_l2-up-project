@@ -6,9 +6,9 @@ Esta es una plantilla para el directorio de trabajo de un proyecto de desarrollo
 
 ## General Information / Información General
 
-* Author/Autor: [Axel Pardemann](http://axelitus.mx)
+* Author / Autor: [Axel Pardemann](http://axelitus.mx)
 * Version: 1.0
-* Released/Liberado: pending
+* Released / Liberado: pending
 
 ## Languages / Idiomas
 
