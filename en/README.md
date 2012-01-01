@@ -4,7 +4,7 @@ This project folder structure is based on the [CMMI-DEV v1.3 Technical Report](h
 
 ## Process Areas
 
-The CMMI-DEV specification describes 7 Process Areas (PA) that support the Maturity Level 2 (ML2). The PAs that are covered by this folder structure and templates are (in alphabetically order):
+The CMMI-DEV specification describes 7 Process Areas (PA) that support the maturity level 2 (L2). The PAs that are covered by this folder structure and templates are (in alphabetically order):
 
 * Configuration Management (CM)
 * Measurement and Analysis (MA)
@@ -14,7 +14,36 @@ The CMMI-DEV specification describes 7 Process Areas (PA) that support the Matur
 * Requirements Management (REQM)
 * Supplier Agreement Managemnt (SAM)
 
-The PAs will be shortly described. This information was taken as-is from the [CMMI-DEV v1.3 Quick Referece](http://www.sei.cmu.edu/cmmi/tools/cmmiv1-3/upload/CMMI-DEV_Quick_Ref.pdf).
+The PAs will be described shortly. This information was taken as-is from the [CMMI-DEV v1.3 Quick Referece](http://www.sei.cmu.edu/cmmi/tools/cmmiv1-3/upload/CMMI-DEV_Quick_Ref.pdf).
+
+### Goals and Practices
+
+There are two categories of Goals and Practices: Generic and Specific. Specific Goals (SG) and Practices (SP) are specific to a Process Area. Generic Goals (GG) and Practices (GP) are a part of every PA. A Process Area is satisfied when organizational processes cover all of the Generic and Specific Goals and Practices for that PA.
+
+#### Generic Goals and Practices
+
+Generic Goals and Practices are a part of every process area.
+
+* GG 1 - Achieve Specific Goals
+	* GP 1.1 - Perform Specific Practices
+* GG 2 - Institutionalize a Managed Process
+	* GP 2.1 - Establish an Organizational Policy
+	* GP 2.2 - Plan the Process
+	* GP 2.3 - Provide Resources
+	* GP 2.4 - Assign Responsibility
+	* GP 2.5 - Train People
+	* GP 2.6 - Control Work Products
+	* GP 2.7 - Identify and Involve Relevant Stakeholders
+	* GP 2.8 - Monitor and Control the Process
+	* GP 2.9 - Objectively Evaluate Adherence
+	* GP 2.10 - Review Status with Higher Level Management
+* GG 3 - Institutionalize a Defined Process
+	* GP 3.1 - Establish a Defined Process
+	* GP 3.2 - Collect Process Related Experiences
+
+#### Specific Goals and Practices
+
+Each Process Area is defined by a set of Goals and Practices. These Goals and Practices appear only in that PA.
 
 ### Configuration Management (CM)
 
