@@ -24,9 +24,9 @@ El proyecto contiene multiples lenguajes para la estructura del directorio y las
 
 ### License / Licencia
 
-This project is released under the [] License.
+This project is is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Please refer to the LICENSE_EN.htm file for more information.
 
-Este proyecto está liberado bajo la Licencia [].
+Este proyecto se encuentra bajo una Licencia [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Para más información por favor referirse al archivo LICENSE_ES.htm.
 
 ### Tools & Files / Herramientas & Archivos
 
