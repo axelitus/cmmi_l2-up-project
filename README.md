@@ -1,4 +1,4 @@
-# Development Project Folder for CMMI L2 using UP / Directorio de Proyecto de Desarrollo para CMMI N2 usando UP
+# CMMI L2 + UP Development Project Folder
 
 This is a template for a development project's working folder that follows the CMMI Level 2 best practices using the Unified Process model framework. This includes the basic folder structure to organize the project's generated documents and the templates of said documents that should be used throughout the whole process.
 
@@ -14,19 +14,19 @@ Esta es una plantilla para el directorio de trabajo de un proyecto de desarrollo
 
 The project contains multiple languages for the folder structure and templates. This are the languages available and their respective folder:
 
-* English | Folder: en
-* Spanish | Folder: es
+* English | Folder: [en](en)
+* Spanish | Folder: [es](es)
 
 El proyecto contiene multiples lenguajes para la estructura del directorio y las plantillas. Estos son los lenguajes disponibles y sus respectivos directorios:
 
-* Inglés | Directorio: en
-* Español | Directorio: es
+* Inglés | Directorio: [en](en)
+* Español | Directorio: [es](es)
 
 ### License / Licencia
 
-This project is is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Please refer to the LICENSE_EN.htm file for more information.
+This project is is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Please refer to the [LICENSE_EN.md](LICENSE_EN.md) file for more information.
 
-Este proyecto se encuentra bajo una Licencia [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Para más información por favor referirse al archivo LICENSE_ES.htm.
+Este proyecto se encuentra bajo una Licencia [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Por favor referirse al archivo [LICENSE_ES.md](LICENSE_ES.md) para más información.
 
 ### Tools & Files / Herramientas & Archivos
 
@@ -52,16 +52,16 @@ Las herramientas utilizadas o sugeridas son:
 
 * Document Templates
 	* Extension: .dotx | Format: Microsoft Word&copy; 2010
-	* Take into account that any of the alternatives may not display this document's formatting correctly.
+	* Please note that any of the alternative applications may not display this document's formatting correctly.
 * 
 
 * Plantillas de Documentos
 	* Extensión: .dotx | Formato: Microsoft Word&copy; 2010
-	* Se debe tomar en cuenta que cualquier alternativa puede no desplegar correctamente el formato del documento.
+	* Se debe tomar en cuenta que cualquier aplicación alternativa puede no desplegar correctamente el formato del documento.
 * 
 
 ## Further Information / Más información
 
-For further information please read the en/README.md file, as this contains a short description of CMMI L2 and UP along with the description of the contents and usage of this package.
+For further information please read the [en/README.md](en/README.md) file, as this contains a short description of CMMI L2 and UP along with the description of the contents and usage of this package.
 
-Para más información por favor lea el archivo es/README.md ya que contiene una breve descripción de CMMI N2 y UP junto con la descripción del contenido y utilización de este paquete.
+Para más información por favor lea el archivo [es/README.md](es/README.md) ya que contiene una breve descripción de CMMI N2 y UP junto con la descripción del contenido y utilización de este paquete.
