@@ -230,7 +230,7 @@ The contents of this package are explained here.
 
 ## Folder Structure
 
-The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows (ordered by name):
+The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all work products or project related files. It's contents are explained as follows (ordered by name):
 
 * **Architecture:** Contains all the project's architecture files (UML, models, classes, prototypes, ... ).
 * **Deliverables:** Contains all the project's deliverables (including compiled releases of source code, packages, manuals, ...).
@@ -242,7 +242,7 @@ The folder structure is divided and organized by content and not by process step
 * **Templates:** Contains all the templates that can be used related to the CMMI L2 best practices and the UP process.
 * **tmp:** This is a temporary folder for any purpose.
 
-The whole folder structure is explained in the [STRUCTURE.md](en/STRUCTURE.md) file.
+The whole folder structure is explained in detail in the [STRUCTURE.md](en/STRUCTURE.md) file.
 
 ## Templates
 
