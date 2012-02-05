@@ -242,7 +242,7 @@ The folder structure is divided and organized by content and not by process step
 * **Templates:** Contains all the templates that can be used related to the CMMI L2 best practices and the UP process.
 * **tmp:** This is a temporary folder for any purpose.
 
-The whole folder structure is explained in the [STRUCTURE.md](STRUCTURE.md) file.
+The whole folder structure is explained in the [STRUCTURE.md](en/STRUCTURE.md) file.
 
 ## Templates
 
