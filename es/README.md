@@ -85,7 +85,7 @@ El propósito de la Medición y Análisis (MA) es desarrollar y mantener una cap
 
 ### Monitoreo y Control de Proyecto (PMC)
 
-El propósito de Monitoreo y Control de Proyecto (PMC) es proporcionar una comprensión del progreso del proyecto a fin de que se puedan tomar acciones correctivas apropiadas  cuando los resultados del proyecto se desvían significativamente del plan.
+El propósito del Monitoreo y Control de Proyecto (PMC) es proporcionar una comprensión del progreso del proyecto a fin de que se puedan tomar acciones correctivas apropiadas  cuando los resultados del proyecto se desvían significativamente del plan.
 
 #### SG 1 - El desempeño y progreso real del proyecto son monitoreados con base en el plan del proyecto.
 
@@ -156,21 +156,21 @@ El propósito de la Administración de Requerimientos (REQM) es administrar los 
 * SP 1.4 - Mantener la trazabilidad bidireccional entre los requerimientos y los productos de trabajo.
 * SP 1.5 - Asegurar que los planes y productos de trabajo del proyecto se mantienen alineados con los requerimientos.
 
-### Supplier Agreement Managemnt (SAM)
+### Administración de Acuerdos con Proveedores (SAM)
 
-The purpose of Supplier Agreement Management (SAM) is to manage the acquisition of products and services from suppliers.
+El propósito de la Administración de Acuerdos con Proveedores (SAM) es administrar la adquisición de productos y servicios de los proveedores.
 
-#### SG 1 - Agreements with the suppliers are established and maintained.
+#### SG 1 - Acuerdos con proveedores son establecidos y mantenidos.
 
-* SP 1.1 - Determine the type of acquisition for each product or product component to be acquired.
-* SP 1.2 - Select suppliers based on an evaluation of their ability to meet the specified requirements and established criteria.
-* SP 1.3 - Establish and maintain supplier agreements.
+* SP 1.1 - Determinar el tipo de adquisición para cada producto o componente de producto a adquirir.
+* SP 1.2 - Seleccionar proveedores en base a una evaluación de su capacidad para cumplir con los requerimientos especificados y los criterios establecidos.
+* SP 1.3 - Establecer y mantener acuerdos con proveedores.
 
-#### SG 2 - Agreements with suppliers are satisfied by both the project and the supplier.
+#### SG 2 - Acuerdos con proveedores son cumplidos por ambos, tanto por el proyecto como por el proveedor.
 
-* SP 2.1 - Perform activities with the supplier as specified in the supplier agreement.
-* SP 2.2 - Ensure that the supplier agreement is satisfied before accepting the acquired product.
-* SP 2.3 - Ensure the transition of products acquired from the supplier.
+* SP 2.1 - Realizar las actividades con el proveedor como fue especificado en el acuerdo con el proveedor.
+* SP 2.2 - Garantizar que el acuerdo con el proveedor se cumple antes de aceptar el producto adquirido.
+* SP 2.3 - Asegurar la transición de los productos adquiridos con el proveedor.
 
 # Unified Process
 
