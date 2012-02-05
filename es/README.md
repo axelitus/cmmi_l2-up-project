@@ -103,32 +103,32 @@ El propósito de Monitoreo y Control de Proyecto (PMC) es proporcionar una compr
 * SP 2.2 - Tomar las medidas correctivas sobre los problemas identificados.
 * SP 2.3 - Garantizar la ejecución de las acciones correctivas.
 
-### Project Planning (PP)
+### Planeación de Proyecto (PP)
 
-The purpose of Project Planning (PP) is to establish and maintain plans that define project activities.
+El propósito de la Planeación de Proyecto (PP) es establecer y mantener planes que definen las actividades del proyecto.
 
-#### SG 1 - Estimates of project planning parameters are established and maintained.
+#### SG 1 - Estimados de los parámetros de planificación de proyecto son establecidos y mantenidos.
 
-* SP 1.1 - Establish a top-level work breakdown structure (WBS) to estimate the scope of the project.
-* SP 1.2 - Establish and maintain estimates of work product and task attributes.
-* SP 1.3 - Define project lifecycle phases on which to scope the planning effort.
-* SP 1.4 - Estimate the project’s effort and cost for work products and tasks based on estimation rationale.
+* SP 1.1 - Establecer una estructura de desglose de trabajo (WBS) de alto nivel para estimar el alcance del proyecto.
+* SP 1.2 - Establecer y mantener las estimaciones de atributos de productos de trabajo y tareas.
+* SP 1.3 - Definir las fases del ciclo de vida del proyecto en las cuales planificar el esfuerzo.
+* SP 1.4 - Estimar el esfuerzo y costo del proyecto para los productos de trabajo y tareas basado en una estimación racional.
 
-#### SG 2 - A project plan is established and maintained as the basis for managing the project.
+#### SG 2 - Se establece y mantiene un plan de proyecto como base para administrar el proyecto.
 
-* SP 2.1 - Establish and maintain the project’s budget and schedule.
-* SP 2.2 - Identify and analyze project risks.
-* SP 2.3 - Plan for the management of project data.
-* SP 2.4 - Plan for resources to perform the project.
-* SP 2.5 - Plan for knowledge and skills needed to perform the project.
-* SP 2.6 - Plan the involvement of identified stakeholders.
-* SP 2.7 - Establish and maintain the overall project plan.
+* SP 2.1 - Establecer y mantener el presupuesto y calendario del proyecto.
+* SP 2.2 - Identificar y analizar los riesgos del proyecto.
+* SP 2.3 - Planear la administración de los datos del proyecto.
+* SP 2.4 - Planear la utilización de recursos para realizar el proyecto.
+* SP 2.5 - Planear los conocimientos y habilidades necesarias para realizar el proyecto.
+* SP 2.6 - Planear la participación de los interesados identificados.
+* SP 2.7 - Establecer y mantener el plan general del proyecto.
 
-#### SG 3 - Commitments to the project plan are established and maintained.
+#### SG 3 - Se establecen y mantienen compromisos con el plan de proyecto.
 
-* SP 3.1 - Review all plans that affect the project to understand project commitments.
-* SP 3.2 - Adjust the project plan to reconcile available and estimated resources.
-* SP 3.3 - Obtain commitment from relevant stakeholders responsible for performing and supporting plan execution.
+* SP 3.1 - Revisar todos los planes que afectan al proyecto para comprender los compromisos del proyecto.
+* SP 3.2 - Ajustar el plan del proyecto para consolidar los recursos disponibles y estimados.
+* SP 3.3 - Obtener el compromiso de los interesados responsables de realizar y apoyar la ejecución del plan.
 
 ### Process and Product Quality Assurance (PPQA)
 
