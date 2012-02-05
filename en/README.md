@@ -239,7 +239,7 @@ The folder structure is divided and organized by content and not by process step
 * **Management:** Contains all the project's files related to the project's management (business analysis, configuration management, monitoring, policies, requirements, ...).
 * **Precedents:** Contains all the files obtained from the client related to the project (the project's request format, assets, documents, files, ...).
 * **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
-* **Templates:** Contains all the templates that can be used related to the CMMI L2 best practices and the UP process.
+* **Templates:** Contains all the templates that can be used to generate the required documentation to fulfill the best practices specified in CMMI for maturity level 2 using UP.
 * **tmp:** This is a temporary folder for any purpose.
 
 The whole folder structure is explained in detail in the [STRUCTURE.md](en/STRUCTURE.md) file.
