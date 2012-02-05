@@ -222,7 +222,7 @@ La fase final del proyecto es la de Transición. En esta fase el sistema es desp
 
 ## Más Información
 
-Para más información por favor visita [PRoceso Unificado](http://es.wikipedia.org/wiki/Proceso_Unificado). Existen tambien muchos refinamientos del Proceso Unificado que pueden ser encontrados [aquí](http://en.wikipedia.org/wiki/Unified_Process#Refinements_and_Variations).
+Para más información por favor visita [Proceso Unificado](http://es.wikipedia.org/wiki/Proceso_Unificado). Existen tambien muchos refinamientos del Proceso Unificado que pueden ser encontrados [aquí](http://en.wikipedia.org/wiki/Unified_Process#Refinements_and_Variations).
 
 # Contenido y Uso
 
