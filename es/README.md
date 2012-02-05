@@ -47,61 +47,61 @@ Cada Área de Proceso es definida por un conjunto de Metas y Prácticas Específ
 
 ### Administración de la Configuración (CM)
 
-El propósito de la Administración de la Configuración es establecer y mantener la integridad de los productos del trabajo utilizando identificación de la configuración, control de la configuración, seguimiento del estatus de la configuración y auditorías de configuración.
+El propósito de la Administración de la Configuración (CM) es establecer y mantener la integridad de los productos de trabajo utilizando identificación de configuración, control de la configuración, seguimiento del estatus de la configuración y auditorías de configuración.
 
 #### SG 1 - Se establecen Líneas Base de los productos de trabajo identificados.
 
-* SP 1.1 - Identificar los elementos y los componentes de la configuracón, así como los productos del trabajo relacionados para ser incluidos dentro de la administración de la configuración.
-* SP 1.2 - Establecer y mantener un sistema de administración de la configuración y administración de los cambios para controlar los productos del trabajo.
-* SP 1.3 - Crear o publicar líneas base para uso interno y entrega al cliente.
+* SP 1.1 - Identificar los elementos y componentes de configuración, así como los productos de trabajo relacionados para ser incluidos dentro de la administración de la configuración.
+* SP 1.2 - Establecer y mantener un sistema de administración de configuración y administración de cambios para controlar los productos de trabajo.
+* SP 1.3 - Crear o liberar líneas base para uso interno y para entrega al cliente.
 
-#### SG 2 - Los cambios a los productos del trabajo bajo la administración de la configuración son registrados y controlados.
+#### SG 2 - Los cambios a los productos de trabajo bajo la administración de la configuración son registrados y controlados.
 
-* SP 2.1 - Registrar las peticiones de cambio para los elementos de la configuración.
-* SP 2.2 - Controlar los cambios a los elementos de la configuración.
+* SP 2.1 - Registrar las peticiones de cambio para los elementos de configuración.
+* SP 2.2 - Controlar los cambios a los elementos de configuración.
 
 #### SG 3 - La integridad de las líneas base es establecida y mantenida.
 
-* SP 3.1 - Establecer y mantener registros que describan los elementos de la configuración.
-* SP 3.2 - Realizar auditorías de configuración para mantener la integridad de las líneas base de la configuración.
+* SP 3.1 - Establecer y mantener registros que describen los elementos de configuración.
+* SP 3.2 - Realizar auditorías de configuración para mantener la integridad de las líneas base de configuración.
 
-### Measurement and Analysis (MA)
+### Medición y Análisis (MA)
 
-The purpose of Measurement and Analysis (MA) is to develop and sustain a measurement capability used to support management information needs.
+El propósito de la Medición y Análisis (MA) es desarrollar y mantener una capacidad de medición utilizada para sustentar las necesidades de información de la administración.
 
-#### SG 1 - Measurement objectives and activities are aligned with identified information needs and objectives.
+#### SG 1 - Los objetivos y actividades de medición están alineados con las necesidades y objetivos de información identificados.
 
-* SP 1.1 - Establish and maintain measurement objectives derived from identified information needs and objectives.
-* SP 1.2 - Specify measures to address measurement objectives.
-* SP 1.3 - Specify how measurement data are obtained and stored.
-* SP 1.4 - Specify how measurement data are analyzed and communicated.
+* SP 1.1 - Establecer y mantener objetivos de medición derivados de las necesidades y objetivos de información identificados.
+* SP 1.2 - Especificar medidas para abordar objetivos de medición.
+* SP 1.3 - Especificar cómo los datos de medición son obtenidos y almacenados.
+* SP 1.4 - Especificar cómo los datos de medición son analizados y comunicados.
 
-#### SG 2 - Measurement results, which address identified information needs and objectives, are provided.
+#### SG 2 - Los resultados de medición, que abordan necesidades y objetivos de información identificados, son proporcionados.
 
-* SP 2.1 - Obtain specified measurement data.
-* SP 2.2 - Analyze and interpret measurement data.
-* SP 2.3 - Manage and store measurement data, measurement specifications, and analysis results.
-* SP 2.4 - Communicate results of measurement and analysis activities to all relevant stakeholders.
+* SP 2.1 - Obtener datos de medición especificados.
+* SP 2.2 - Analizar e interpretar los datos de medición.
+* SP 2.3 - Administrar y almacenar los datos de medición, las especificaciones de medición y los resultados de análisis.
+* SP 2.4 - Comunicar los resultados de las actividades de medición y análisis a todos los interesados.
 
-### Project Monitoring and Control (PMC)
+### Monitoreo y Control de Proyecto (PMC)
 
-The purpose of Project Monitoring and Control (PMC) is to provide an understanding of the project’s progress so that appropriate corrective actions can be taken when the project’s performance deviates significantly from the plan.
+El propósito de Monitoreo y Control de Proyecto (PMC) es proporcionar una comprensión del progreso del proyecto a fin de que se puedan tomar acciones correctivas apropiadas  cuando los resultados del proyecto se desvían significativamente del plan.
 
-#### SG 1 - Actual project performance and progress are monitored against the project plan.
+#### SG 1 - El desempeño y progreso real del proyecto son monitoreados con base en el plan del proyecto.
 
-* SP 1.1 - Monitor actual values of project planning parameters against the project plan.
-* SP 1.2 - Monitor commitments against those identified in the project plan.
-* SP 1.3 - Monitor risks against those risks identified in the project plan.
-* SP 1.4 - Monitor the management of project data against the project plan.
-* SP 1.5 - Monitor stakeholder involvement against the project plan.
-* SP 1.6 - Periodically review the project’s progress, performance, and issues.
-* SP 1.7 - Review the project’s accomplishments and results at selected project milestones.
+* SP 1.1 - Monitorear los valores reales de los parámetros de planificación del proyecto en base al plan de proyecto.
+* SP 1.2 - Monitorear los compromisos en base a aquellos identificados en el plan de proyecto.
+* SP 1.3 - Monitorear los riesgos en base a aquellos identificados en el plan de proyecto.
+* SP 1.4 - Monitorear la administración de los datos del proyecto en base al plan de proyecto.
+* SP 1.5 - Monitorear la participación de los interesados ​​en base al plan de proyecto.
+* SP 1.6 - Revisar periódicamente el progreso, el desempeño y los problemas del proyecto.
+* SP 1.7 - Revisar los logros y resultados del proyecto en los hitos del proyecto seleccionados.
 
-#### SG 2 - Corrective actions are managed to closure when the project’s performance or results deviate significantly from the plan.
+#### SG 2 - Se garantiza la ejecución de las medidas correctivas cuando el desempeño o los resultados del proyecto se desvían significativamente del plan.
 
-* SP 2.1 - Collect and analyze issues and determine corrective actions to address them.
-* SP 2.2 - Take corrective action on identified issues.
-* SP 2.3 - Manage corrective actions to closure.
+* SP 2.1 - Recopilar y analizar los problemas y determinar las acciones correctivas para abordarlos.
+* SP 2.2 - Tomar las medidas correctivas sobre los problemas identificados.
+* SP 2.3 - Garantizar la ejecución de las acciones correctivas.
 
 ### Project Planning (PP)
 
@@ -230,18 +230,27 @@ The contents of this package are explained here.
 
 ## Folder Structure
 
-The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows:
+The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows (ordered by name):
 
-* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototipes, ... ).
-* **Development:** Contains all the project's development files (source code).
-* **Deliverables:** Contains all the project's deliverables (including compiled releases of source code).
+* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototypes, ... ).
+* **Deliverables:** Contains all the project's deliverables (including compiled releases of source code, packages, manuals, ...).
+* **Development:** Contains all the project's development files (source code, developed assets, components used, database models and scripts, ...).
 * **Maintenance:** Contains all the project's maintenance cycle files.
-* **Management:** Contains all the project's files related to the project's management.
-* **Policies:** Contains all the policies that should be observed by the whole process of the project.
-* **Precedents:** Contains all the files obtained from the client related to the project (including the project's request format).
+* **Management:** Contains all the project's files related to the project's management (business analysis, configuration management, monitoring, policies, requirements, ...).
+* **Precedents:** Contains all the files obtained from the client related to the project (the project's request format, assets, documents, files, ...).
 * **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
-* **Templates:** Contains all the templates to be used by the documents/files/diagrams of the project.
+* **Templates:** Contains all the templates that can be used related to the CMMI L2 best practices and the UP process.
+* **tmp:** This is a temporary folder for any purpose.
+
+The whole folder structure is explained in the [STRUCTURE.md](en/STRUCTURE.md) file.
 
 ## Templates
 
-The templates are not organized by folder as this facilitate the searching for a specific template. But they instead have a name that explains where the document should be placed inside the folder structure.
+The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore \_ wheras the last group is the document's generic name (it's purpose is also self-explanatory).
+
+Example:
+
+	Filename: Management_BusinessAnalysis_BusinessCases_Project ROI Evaluation.dotx
+	
+	Folder: Management/BusinessAnalysis/BusinessCases/
+	Filename: <prefix> - Project ROI Evaluation - <suffix>.docx
