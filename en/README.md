@@ -156,7 +156,7 @@ The purpose of Requirements Management (REQM) is to manage requirements of the p
 * SP 1.4 - Maintain bidirectional traceability among requirements and work products.
 * SP 1.5 - Ensure that project plans and work products remain aligned with the requirements.
 
-### Supplier Agreement Managemnt (SAM)
+### Supplier Agreement Management (SAM)
 
 The purpose of Supplier Agreement Management (SAM) is to manage the acquisition of products and services from suppliers.
 
