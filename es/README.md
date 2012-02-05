@@ -144,17 +144,17 @@ El propósito del Aseguramiento de la Calidad del Proceso y el Producto (PPQA) e
 * SP 2.1 - Comunicar los problemas de calidad y garantizar la resolución de los problemas de incumplimiento con el personal y la administración.
 * SP 2.2 - Establecer y mantener registros de las actividades de aseguramiento de la calidad.
 
-### Requirements Management (REQM)
+### Administración de Requerimientos (REQM)
 
-The purpose of Requirements Management (REQM) is to manage requirements of the project’s products and product components and to ensure alignment between those requirements and the project’s plans and work products.
+El propósito de la Administración de Requerimientos (REQM) es administrar los requerimientos de los productos del proyecto y los componentes de productos y garantizar la alineación entre esos requerimientos y los planes y productos de trabajo del proyecto.
 
-#### SG 1 - Requirements are managed and inconsistencies with plans and work products are identified.
+#### SG 1 - Los requerimientos son administrados y las inconsistencias con los planes y productos de trabajo son identificados.
 
-* SP 1.1 - Develop an understanding with the requirements providers on the meaning of the requirements.
-* SP 1.2 - Obtain commitment to requirements from project participants.
-* SP 1.3 - Manage changes to requirements as they evolve during the project.
-* SP 1.4 - Maintain bidirectional traceability among requirements and work products.
-* SP 1.5 - Ensure that project plans and work products remain aligned with the requirements.
+* SP 1.1 - Desarrollar un entendimiento con los proveedores de los requerimientos sobre el significado de los requerimientos.
+* SP 1.2 - Obtener el compromiso con los requerimientos de parte de los participantes del proyecto.
+* SP 1.3 - Administrar los cambios en los requerimientos a medida que evolucionan durante el proyecto.
+* SP 1.4 - Mantener la trazabilidad bidireccional entre los requerimientos y los productos de trabajo.
+* SP 1.5 - Asegurar que los planes y productos de trabajo del proyecto se mantienen alineados con los requerimientos.
 
 ### Supplier Agreement Managemnt (SAM)
 
