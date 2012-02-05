@@ -174,7 +174,7 @@ El propósito de la Administración de Acuerdos con Proveedores (SAM) es adminis
 
 # Proceso Unificado
 
-Esta estructura de directorio está basada en el marco de trabajo de desarrollo de software del [Proceso Unificado](http://en.wikipedia.org/wiki/Unified_Process) que define al desarrollo como un proceso orientado a casos de uso, centrado en la arquitectura utilizando un ciclo de vida iterativo e incremental.
+Esta estructura de directorio está basada en el marco de trabajo de desarrollo de software del [Proceso Unificado](http://es.wikipedia.org/wiki/Proceso_Unificado) que define al desarrollo como un proceso orientado a casos de uso, centrado en la arquitectura utilizando un ciclo de vida iterativo e incremental.
 
 ## Ciclo de vida de Proyecto
 
@@ -185,7 +185,7 @@ El Proceso Unificado divide el proyecto en cuatro fases:
 * Construcción
 * Transición
 
-Cada una de ellas puede tener una o múltiples iteraciones a través del proceso, aunque [el esfuerzo relativo y el énfasis cambiará en el transcurso del proyecto](http://en.wikipedia.org/wiki/File:Development-iterative.gif).
+Cada una de ellas puede tener una o múltiples iteraciones a través del proceso, aunque [el esfuerzo relativo y el énfasis cambiará en el transcurso del proyecto](http://es.wikipedia.org/wiki/Archivo:RUP_disciplines_greyscale_20060121.svg).
 
 ### Fase de Concepción
 
@@ -220,37 +220,37 @@ La Construcción es la fase más larga en el proyecto. En esta fase se construye
 
 La fase final del proyecto es la de Transición. En esta fase el sistema es desplegado hacia los usuarios finales. La retroalimentación recibida de una liberación inicial (o liberaciones iniciales) puede resultar en mejoras que serán incorporadas a lo largo de varias iteraciones de la fase de Transición. La fase de Transición también incluye la conversión de sistemas y la capacitación de usuarios.
 
-## More Information
+## Más Información
 
-For more information please visit [Unified Process](http://en.wikipedia.org/wiki/Unified_Process). There are also many refinements of the Unified Process that can be found [here](http://en.wikipedia.org/wiki/Unified_Process#Refinements_and_Variations).
+Para más información por favor visita [PRoceso Unificado](http://es.wikipedia.org/wiki/Proceso_Unificado). Existen tambien muchos refinamientos del Proceso Unificado que pueden ser encontrados [aquí](http://en.wikipedia.org/wiki/Unified_Process#Refinements_and_Variations).
 
-# Contents & Usage
+# Contenido y Uso
 
-The contents of this package are explained here.
+El contenido de este paquete se explica aquí.
 
-## Folder Structure
+## Estructura de Directorio
 
-The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows (ordered by name):
+La estructura de directorio está dividida y organizada por contenido y no por etapas del proyecto. Hay 9 directorios de Primer Nivel que contienen todos los productos de trabajo o archivos relacionados al proyecto. Su contenido se explica a continuación (ordenados por nombre):
 
-* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototypes, ... ).
-* **Deliverables:** Contains all the project's deliverables (including compiled releases of source code, packages, manuals, ...).
-* **Development:** Contains all the project's development files (source code, developed assets, components used, database models and scripts, ...).
-* **Maintenance:** Contains all the project's maintenance cycle files.
-* **Management:** Contains all the project's files related to the project's management (business analysis, configuration management, monitoring, policies, requirements, ...).
-* **Precedents:** Contains all the files obtained from the client related to the project (the project's request format, assets, documents, files, ...).
-* **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
-* **Templates:** Contains all the templates that can be used related to the CMMI L2 best practices and the UP process.
-* **tmp:** This is a temporary folder for any purpose.
+* **Administración:** Contiene todos los archivos del proyecto relativos a la administración del proyecto (análisis de negocio, administración de configuración, monitoreo, políticas, requerimientos, ...).
+* **Arquitectura:** Contiene todos los archivos de arquitectura del proyecto (UML, modelos, clases, prototipos, ... ).
+* **Desarrollo:** Contiene todos los archivos de desarrollo del proyecto (código fuente, recursos desarrollados, componentes utilizados, modelos de base de datos y scripts, ...).
+* **Entregables:** Contiene todos los entregables del proyecto (liberaciones compiladas del código fuente, paquetes, manuales, ...).
+* **Mantenimiento:** Contiene todos los archivos del ciclo de mantenimiento del proyecto.
+* **Plantillas:** Contiene todas las plantillas que pueden ser utilizadas para generar la documentación necesaria para cumplir con las mejores prácticas especificadas en CMMI para el nivel de madurez 2 utilizando UP.
+* **Precedentes:** Contiene todos los archivos obtenidos del cliente relacionados al proyecto (el formato de solicitud de proyecto, recursos, documentos, archivos, ...).
+* **Referencias:** Contiene todos los materiales de referencia para el proyecto (enlaces, publicaciones, white papers, reportes técnicos, especificaciones, ... ).
+* **tmp:** Este es un directorio temporal para cualquier propósito.
 
-The whole folder structure is explained in the [STRUCTURE.md](en/STRUCTURE.md) file.
+Toda la estructura de directorio se explica en el archivo [STRUCTURE.md](es/STRUCTURE.md) a detalle.
 
-## Templates
+## Plantillas
 
-The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore \_ wheras the last group is the document's generic name (it's purpose is also self-explanatory).
+Las plantillas no están organizadas por directorio ya que esto facilita la búsqueda de una plantilla específica. En su lugar tienen un nombre auto-explicativo que incluye la ruta que debe ser utilizada para el documento generado. Cada directorio en el nombre de archivo está separado por un guión bajo \_ mientras que el último grupo es el nombre genérico del documento (su propósito también es auto-explicativo).
 
-Example:
+Ejemplo:
 
-	Filename: Management_BusinessAnalysis_BusinessCases_Project ROI Evaluation.dotx
+	Nombre de archivo: Administracion_AnalisisNegocio_CasosNegocio_Evaluacion ROI de Proyecto.dotx
 	
-	Folder: Management/BusinessAnalysis/BusinessCases/
-	Filename: <prefix> - Project ROI Evaluation - <suffix>.docx
+	Directorio: Administracion/AnalisisNegocio/CasosNegocio/
+	Nombre de archivo: <prefijo> - Evaluacion ROI de Proyecto - <sufijo>.docx
