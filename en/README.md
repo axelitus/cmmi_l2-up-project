@@ -14,7 +14,7 @@ The CMMI-DEV specification describes 7 Process Areas (PA) that support the matur
 * Requirements Management (REQM)
 * Supplier Agreement Managemnt (SAM)
 
-The PAs will be described shortly. This information was taken as-is from the [CMMI-DEV v1.3 Quick Referece](http://www.sei.cmu.edu/cmmi/tools/cmmiv1-3/upload/CMMI-DEV_Quick_Ref.pdf).
+The PAs will be described shortly. This information was taken as-is from the [CMMI-DEV v1.3 Quick Reference](http://www.sei.cmu.edu/cmmi/tools/cmmiv1-3/upload/CMMI-DEV_Quick_Ref.pdf).
 
 ### Goals and Practices
 
@@ -230,18 +230,27 @@ The contents of this package are explained here.
 
 ## Folder Structure
 
-The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows:
+The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all generated or related files for the project, it's contents are explained as follows (ordered by name):
 
-* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototipes, ... ).
-* **Development:** Contains all the project's development files (source code).
-* **Deliverables:** Contains all the project's deliverables (including compiled releases of source code).
+* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototypes, ... ).
+* **Deliverables:** Contains all the project's deliverables (including compiled releases of source code, packages, manuals, ...).
+* **Development:** Contains all the project's development files (source code, developed assets, components used, database models and scripts, ...).
 * **Maintenance:** Contains all the project's maintenance cycle files.
-* **Management:** Contains all the project's files related to the project's management.
-* **Policies:** Contains all the policies that should be observed by the whole process of the project.
-* **Precedents:** Contains all the files obtained from the client related to the project (including the project's request format).
+* **Management:** Contains all the project's files related to the project's management (business analysis, configuration management, monitoring, policies, requirements, ...).
+* **Precedents:** Contains all the files obtained from the client related to the project (the project's request format, assets, documents, files, ...).
 * **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
-* **Templates:** Contains all the templates to be used by the documents/files/diagrams of the project.
+* **Templates:** Contains all the templates that can be used related to the CMMI L2 best practices and the UP process.
+* **tmp:** This is a temporary folder for any purpose.
+
+The whole folder structure is explained in the [STRUCTURE.md](STRUCTURE.md) file.
 
 ## Templates
 
-The templates are not organized by folder as this facilitate the searching for a specific template. But they instead have a name that explains where the document should be placed inside the folder structure.
+The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore \_ wheras the last group is the document's generic name (it's purpose is also self-explanatory).
+
+Example:
+
+	Filename: Management_BusinessAnalysis_BusinessCases_Project ROI Evaluation.dotx
+	
+	Folder: Management/BusinessAnalysis/BusinessCases/
+	Filename: <prefix> - Project ROI Evaluation - <suffix>.docx
