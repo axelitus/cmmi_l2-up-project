@@ -224,7 +224,7 @@ The final project phase is Transition. In this phase the system is deployed to t
 
 For more information please visit [Unified Process](http://en.wikipedia.org/wiki/Unified_Process). There are also many refinements of the Unified Process that can be found [here](http://en.wikipedia.org/wiki/Unified_Process#Refinements_and_Variations).
 
-# Contents & Usage
+# Contents and Usage
 
 The contents of this package are explained here.
 

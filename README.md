@@ -28,7 +28,7 @@ This project is is licensed under a [Creative Commons Attribution 3.0 Unported L
 
 Este proyecto se encuentra bajo una Licencia [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). Por favor referirse al archivo [LICENSE_ES.md](LICENSE_ES.md) para más información.
 
-### Tools & Files / Herramientas & Archivos
+### Tools and Files / Herramientas y Archivos
 
 Different tools are used to generate the documents or are suggested hereby. The files and their format are also explained.
 
