@@ -189,7 +189,7 @@ Each of them can have one or multiple iteration throughout the process, though [
 
 ### Inception Phase
 
-Inception is the smallest phase in the project, and ideally it should be quite short. If the Inception Phase is long then it may be an indication of excessive up-front specification, which is contrary to the spirit of the Unified Process.
+Inception is the smallest phase in the project and ideally it should be quite short. If the Inception Phase is long then it may be an indication of excessive up-front specification, which is contrary to the spirit of the Unified Process.
 
 The following are typical goals for the Inception phase.
 
