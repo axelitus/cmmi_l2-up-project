@@ -130,19 +130,19 @@ El propósito de la Planeación de Proyecto (PP) es establecer y mantener planes
 * SP 3.2 - Ajustar el plan del proyecto para consolidar los recursos disponibles y estimados.
 * SP 3.3 - Obtener el compromiso de los interesados responsables de realizar y apoyar la ejecución del plan.
 
-### Process and Product Quality Assurance (PPQA)
+### Aseguramiento de la Calidad del Proceso y el Producto (PPQA)
 
-The purpose of Process and Product Quality Assurance (PPQA) is to provide staff and management with objective insight into processes and associated work products.
+El propósito del Aseguramiento de la Calidad del Proceso y el Producto (PPQA) es proporcionar al personal y la administración una visión objetiva de los procesos y productos de trabajo asociados.
 
-#### SG 1 - Adherence of the performed process and associated work products to applicable process descriptions, standards, and procedures is objectively evaluated.
+#### SG 1 - La adhesión del proceso realizado y los productos de trabajo relacionados a las descripciones de procesos aplicables, normas y procedimientos son evaluados objetivamente.
 
-* SP 1.1 - Objectively evaluate selected performed processes against applicable process descriptions, standards, and procedures.
-* SP 1.2 - Objectively evaluate selected work products against applicable process descriptions, standards, and procedures.
+* SP 1.1 - Evaluar objetivamente la selección de procesos realizados en base a las descripciones de procesos aplicables, normas y procedimientos.
+* SP 1.2 - Evaluar objetivamente la selección de productos de trabajo en base a las descripciones de procesos aplicables, normas y procedimientos.
 
-#### SG 2 - Noncompliance issues are objectively tracked and communicated, and resolution is ensured.
+#### SG 2 - Los problemas de incumplimiento son registrados y comunicados objetivamente, y se garantiza su resolución.
 
-* SP 2.1 - Communicate quality issues and ensure the resolution of noncompliance issues with the staff and managers.
-* SP 2.2 - Establish and maintain records of quality assurance activities.
+* SP 2.1 - Comunicar los problemas de calidad y garantizar la resolución de los problemas de incumplimiento con el personal y la administración.
+* SP 2.2 - Establecer y mantener registros de las actividades de aseguramiento de la calidad.
 
 ### Requirements Management (REQM)
 
