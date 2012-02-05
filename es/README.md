@@ -172,53 +172,53 @@ El propósito de la Administración de Acuerdos con Proveedores (SAM) es adminis
 * SP 2.2 - Garantizar que el acuerdo con el proveedor se cumple antes de aceptar el producto adquirido.
 * SP 2.3 - Asegurar la transición de los productos adquiridos con el proveedor.
 
-# Unified Process
+# Proceso Unificado
 
-This folder structure is based on the software development process framework [Unified Process](http://en.wikipedia.org/wiki/Unified_Process) which defines the development as a use case driven, architecture centric process using an iterative and incremental live cycle.
+Esta estructura de directorio está basada en el marco de trabajo de desarrollo de software del [Proceso Unificado](http://en.wikipedia.org/wiki/Unified_Process) que define al desarrollo como un proceso orientado a casos de uso, centrado en la arquitectura utilizando un ciclo de vida iterativo e incremental.
 
-## Project Lifecycle
+## Ciclo de vida de Proyecto
 
-The Unified Process divides the project into four phases:
+El Proceso Unificado divide el proyecto en cuatro fases:
 
-* Inception
-* Elaboration
-* Construction
-* Transition
+* Concepción
+* Elaboración
+* Construcción
+* Transición
 
-Each of them can have one or multiple iteration throughout the process, though [the relative effort and emphasis will change over the course of the project](http://en.wikipedia.org/wiki/File:Development-iterative.gif).
+Cada una de ellas puede tener una o múltiples iteraciones a través del proceso, aunque [el esfuerzo relativo y el énfasis cambiará en el transcurso del proyecto](http://en.wikipedia.org/wiki/File:Development-iterative.gif).
 
-### Inception Phase
+### Fase de Concepción
 
-Inception is the smallest phase in the project, and ideally it should be quite short. If the Inception Phase is long then it may be an indication of excessive up-front specification, which is contrary to the spirit of the Unified Process.
+La Concepción es la fase más pequeña del proyecto e idealmente debería ser muy corta. Si la Fase de Concepción es larga entonces puede ser una indicación de una excesiva especificación de primera instancia, lo cual es contrario al espíritu del Proceso Unificado.
 
-The following are typical goals for the Inception phase.
+Las siguientes son metas típicas para la fase de Concepción.
 
-* Establish a justification or business case for the project
-* Establish the project scope and boundary conditions
-* Outline the use cases and key requirements that will drive the design tradeoffs
-* Outline one or more candidate architectures
-* Identify risks
-* Prepare a preliminary project schedule and cost estimate
+* Establecer una justificación o caso de negocio para el proyecto
+* Establecer los alcances del proyecto y las condiciones limitantes
+* Delinear los casos de uso y los requerimientos clave que impulsarán el equilibrio del diseño
+* Delinear una o más posibles arquitecturas
+* Identificar los riesgos
+* Preparar un calendario de proyecto preliminar y estimación de costos
 
-The Lifecycle Objective Milestone marks the end of the Inception phase.
+El Hito Objetivo del Ciclo de Vida marca el final de la fase de Concepción.
 
-Develop an approximate vision of the system, make the business case, define the scope, and produce rough estimate for cost and schedule.
+Desarrollar una visión aproximada del sistema, generar el caso de negocio, definir los alcances y producir un estimado aproximado de los costos y calendarización.
 
-### Elaboration Phase
+### Fase de Elaboración
 
-During the Elaboration phase the project team is expected to capture a healthy majority of the system requirements. However, the primary goals of Elaboration are to address known risk factors and to establish and validate the system architecture. Common processes undertaken in this phase include the creation of use case diagrams, conceptual diagrams (class diagrams with only basic notation) and package diagrams (architectural diagrams).
+Durante la fase de Elaboración se espera que el equipo del proyecto capture la mayoría de los requerimientos del sistema. No obstante, las metas principales de la Elaboración son abordar los factores de riesgo conocidos y establecer y validar la arquitectura del sistema. Los procesos comunes llevados a cabo en esta etapa incluyen la creación de diagramas de casos de uso, diagramas conceptuales (diagramas de clase solamente con notación básica) y diagramas de paquete (diagramas de arquitectura).
 
-The architecture is validated primarily through the implementation of an Executable Architecture Baseline. This is a partial implementation of the system which includes the core, most architecturally significant, components. It is built in a series of small, timeboxed iterations. By the end of the Elaboration phase the system architecture must have stabilized and the executable architecture baseline must demonstrate that the architecture will support the key system functionality and exhibit the right behavior in terms of performance, scalability and cost.
+La arquitectura es validada principalmente a través de la implementación de una Línea de Base de Arquitectura Ejecutable. Esta es una implementación parcial del sistema que incluye los componentes de arquitectura nucleares y más significativos. Se construye a lo largo de una serie de pequeñas iteraciones de tiempo definido. Para el final de la fase de Elaboración, la arquitectura del sistema deberá haberse estabilizado y la línea de base de arquitectura ejecutable debe demostrar que la arquitectura soportará la funcionalidad principal del sistema y exhibir el comportamiento correcto en términos de desempeño, escalabilidad y costo.
 
-The final Elaboration phase deliverable is a plan (including cost and schedule estimates) for the Construction phase. At this point the plan should be accurate and credible, since it should be based on the Elaboration phase experience and since significant risk factors should have been addressed during the Elaboration phase.
+El entregable final de la fase de Elaboración es un plan (incluyendo estimados de costo y calendarización) para la fase de Cosntrucción. En este punto, el plan debe ser preciso y creíble dado que debe estar basado en la experiencia obtenida en la fase de Elaboración y los factores de riesgo significativos debieron haber sido abordados durante la fase de Elaboración.
 
-### Construction Phase
+### Fase de Construcción
 
-Construction is the largest phase in the project. In this phase the remainder of the system is built on the foundation laid in Elaboration. System features are implemented in a series of short, timeboxed iterations. Each iteration results in an executable release of the software. It is customary to write full text use cases during the construction phase and each one becomes the start of a new iteration. Common UML (Unified Modelling Language) diagrams used during this phase include Activity, Sequence, Collaboration, State (Transition) and Interaction Overview diagrams.
+La Construcción es la fase más larga en el proyecto. En esta fase se construye el resto del sistema basado en los cimientos construidos en la Elaboración. Las características del sistema son implementadas en una serie de iteraciones cortas de tiempo definido. Cada iteración resulta en una liberación ejecutable del software. Se acostumbra escribir descripciones textuales de casos de uso durante la fase de construcción y cada una se convierte en el comienzo de una nueva iteración. Algunos diagramas comunes de UML (Lenguaje de Modelo Unificado) utilizados durante esta fase son: de Actividad, de Secuencia, de Colaboración, de Estado (de Transición) y de Interacción General.
 
-### Transition Phase
+### Fase de Transición
 
-The final project phase is Transition. In this phase the system is deployed to the target users. Feedback received from an initial release (or initial releases) may result in further refinements to be incorporated over the course of several Transition phase iterations. The Transition phase also includes system conversions and user training.
+La fase final del proyecto es la de Transición. En esta fase el sistema es desplegado hacia los usuarios finales. La retroalimentación recibida de una liberación inicial (o liberaciones iniciales) puede resultar en mejoras que serán incorporadas a lo largo de varias iteraciones de la fase de Transición. La fase de Transición también incluye la conversión de sistemas y la capacitación de usuarios.
 
 ## More Information
 
