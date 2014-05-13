@@ -1,6 +1,6 @@
 # Contents and Usage
 
-The contents of this package are explained here. This project structure is compatible with [CMMI-DEV v1.3 Maturity Level 2 (L2)](CMMI.md) or [PMBOK Guide Fifth Edition](PMBOK.md) standards based on the use of the [Unified Process](UP.md) for Software Development.
+This project structure is compatible with [CMMI-DEV v1.3 Maturity Level 2 (L2)](CMMI.md) or [PMBOK Guide Fifth Edition](PMBOK.md) standards based on the use of the [Unified Process](UP.md) for Software Development. The goal is to have a standard structure for organizing projects. The content and use of this structure is described below.
 
 ## Folder Structure
 

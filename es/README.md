@@ -1,6 +1,6 @@
 # Contenido y Uso
 
-El contenido de este paquete se explica aquí. Esta estructura de proyecto es compatible con los estándares [CMMI-DEV v1.3 Nivel de Madurez 2 (L2)](CMMI.md) o [Guía PMBOK Quinta Edición](PMBOK.md) con base en la utilización del [Proceso Unificado](UP.md) para el Desarrollo de Software.
+Esta estructura de proyecto es compatible con los estándares [CMMI-DEV v1.3 Nivel de Madurez 2 (L2)](CMMI.md) o [Guía PMBOK Quinta Edición](PMBOK.md) con base en la utilización del [Proceso Unificado](UP.md) para el Desarrollo de Software. El objetivo es contar con una estructura estándar para la organización de los proyectos. El contenido y uso de esta estructura se describe a continuación.
 
 ## Estructura de Directorio
 
