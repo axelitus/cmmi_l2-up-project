@@ -1,10 +1,10 @@
-# CMMI Maturity Level 2
+# CMMI v1.3 Maturity Level 2 (L2)
 
-This project folder structure is compatible with the [CMMI-DEV v1.3 Technical Report](http://www.sei.cmu.edu/library/abstracts/reports/10tr033.cfm) released on November 2010 by the [Software Engineering Institute](http://www.sei.cmu.edu) of the [Carnegie Mellon University](http://www.cmu.edu).
+The [CMMI-DEV v1.3 Technical Report](http://www.sei.cmu.edu/library/abstracts/reports/10tr033.cfm) was released on November 2010 by the [Software Engineering Institute](http://www.sei.cmu.edu) of the [Carnegie Mellon University](http://www.cmu.edu). The scope of this description covers only up to the maturity level 2 (L2).
 
 ## Process Areas
 
-The CMMI-DEV specification describes 7 Process Areas (PA) that support the maturity level 2 (L2). The PAs that are covered by this folder structure and templates are (in alphabetically order):
+The CMMI-DEV specification describes 7 Process Areas (PA) that support the maturity level 2 (L2). The PAs that are covered by this folder structure and templates are (in english alphabetically order):
 
 * Configuration Management (CM)
 * Measurement and Analysis (MA)

@@ -1,10 +1,10 @@
-# CMMI Nivel de Madurez 2
+# CMMI v1.3 Nivel de Madurez 2 (L2)
 
-Esta estructura del directorio de proyecto es compatible con el [Reporte Técnico CMMI-DEV v1.3](http://www.sei.cmu.edu/library/abstracts/reports/10tr033.cfm) publicado en Noviembre de 2010 por el [Instituto de Ingeniería de Software](http://www.sei.cmu.edu) de la universidad [Carnegie Mellon University](http://www.cmu.edu).
+El [Reporte Técnico CMMI-DEV v1.3](http://www.sei.cmu.edu/library/abstracts/reports/10tr033.cfm) fue publicado en Noviembre de 2010 por el [Instituto de Ingeniería de Software](http://www.sei.cmu.edu) de la universidad [Carnegie Mellon University](http://www.cmu.edu). El alcance de esta descripción cubre solamente hasta el nivel de madurez 2 (L2).
 
 ## Áreas de Proceso
 
-La especificación CMMI-DEV describe 7 Áreas de Proceso (PA por sus siglas en inglés) que comprenden el nivel de madurez 2 (N2). Las PAs que son cubiertas por esta estructura de directorio y plantillas son (por orden alfabético en inglés):
+La especificación CMMI-DEV describe 7 Áreas de Proceso (PA por sus siglas en inglés) que comprenden el nivel de madurez 2 (L2). Las PAs que son cubiertas por esta estructura de directorio y plantillas son (por orden alfabético en inglés):
 
 * Administración de la Configuración (CM)
 * Medición y Análisis (MA)

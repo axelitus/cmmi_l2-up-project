@@ -8,7 +8,7 @@ Esta es una plantilla para la carpeta de un proyecto para estandarizar el proces
 
 * Author / Autor: [Axel Pardemann](http://axelitus.mx)
 * Version: 1.0
-* Released / Liberado: pending
+* Released / Liberado: pending/pendiente
 
 ## Languages / Idiomas
 
