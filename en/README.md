@@ -6,17 +6,17 @@ The contents of this package are explained here. This project structure is compa
 
 The folder structure is divided and organized by content and not by process steps. There are 9 First Level folders which contain all work products or project related files. It's contents are explained as follows (ordered by name):
 
-* **Architecture:** Contains all the project's architecture files (UML, models, classes, prototypes, ... ).
-* **Deliverables:** Contains all the project's deliverables (compiled releases of source code, packages, manuals, ...).
+* **Architecture:** Contains all the project's architecture/workflow files (UML, models, classes, prototypes, workflow definitions, ...).
+* **Deliverables:** Contains all the project's deliverables (compiled releases of source code, packages, manuals, documentation, assets, ...).
 * **Development:** Contains all the project's development files (source code, developed assets, components used, database models and scripts, ...).
 * **Maintenance:** Contains all the project's maintenance cycle files.
 * **Management:** Contains all the project's files related to the project's management (business analysis, configuration management, monitoring, policies, requirements, ...).
 * **Precedents:** Contains all the files obtained from the client related to the project (the project's request format, assets, documents, files, ...).
-* **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ... ).
-* **Templates:** Contains all the templates that can be used to generate the required documentation to fulfill the best practices specified in CMMI for maturity level 2 using UP.
+* **References:** Contains all the reference materials for the project (links, publications, white papers, technical reports, specs, ...).
+* **Templates:** Contains all the templates that should be used to generate the required project documentation.
 * **tmp:** This is a temporary folder for any purpose.
 
-The whole folder structure is explained in detail in the [STRUCTURE.md](STRUCTURE.md) file.
+The whole folder structure is explained in detail in the [STRUCTURE.md](STRUCTURE.md) file which contains all subfolders explanation.
 
 ## Templates
 
@@ -28,3 +28,7 @@ Example:
 	
 	Folder: Management/BusinessAnalysis/BusinessCases/
 	Filename: <prefix> - Project ROI Evaluation - <suffix>.docx
+
+## Naming Conventions
+
+The suggested naming conventions to be used for filenames are as follows:
