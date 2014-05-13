@@ -51,7 +51,7 @@ Examples:
 	Evaluación ---> Evaluacion
 	Tamaño ---> Tamano
 
-Most used special characters conversions:
+Most common special characters conversions:
 
 	[Á, Ä], [á, ä] ---> [A], [a]
 	[É, Ë], [é, ë] ---> [E], [e]
