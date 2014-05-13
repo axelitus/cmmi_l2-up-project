@@ -64,7 +64,7 @@ Tag explanation:
 
 ## Templates
 
-The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore \_ whereas the last group is the document's generic name (it's purpose is also self-explanatory).
+The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore `_` whereas the last group is the document's generic name (it's purpose is also self-explanatory).
 
 A document based on the template:
 

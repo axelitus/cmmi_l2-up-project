@@ -64,7 +64,7 @@ Explicación de etiquetas:
 
 ## Plantillas
 
-Las plantillas no están organizadas por directorio ya que esto facilita la búsqueda de una plantilla específica. En su lugar tienen un nombre auto-explicativo que incluye la ruta que debe ser utilizada para el documento generado. Cada directorio en el nombre de archivo está separado por un guión bajo \_ mientras que el último grupo es el nombre genérico del documento (su propósito también es auto-explicativo).
+Las plantillas no están organizadas por directorio ya que esto facilita la búsqueda de una plantilla específica. En su lugar tienen un nombre auto-explicativo que incluye la ruta que debe ser utilizada para el documento generado. Cada directorio en el nombre de archivo está separado por un guión bajo `_` mientras que el último grupo es el nombre genérico del documento (su propósito también es auto-explicativo).
 
 Un documento basado en la plantilla:
 
