@@ -1,8 +1,8 @@
-# CMMI L2 + UP Development Project Folder
+# Project Folder Structure
 
-This is a template for a development project's working folder that follows the CMMI Level 2 best practices using the Unified Process model framework. This includes the basic folder structure to organize the project's generated documents and the templates of said documents that should be used throughout the whole process.
+This is a template for a project's folder to standardize the process and ease the project management. It's based on a software development process but it can be used by any kind of project. The folder includes the basic folder structure to organize the project's generated documents and the templates of said documents that should be used throughout the whole process.
 
-Esta es una plantilla para el directorio de trabajo de un proyecto de desarrollo que sigue las mejores prácticas de CMMI Nivel 2 utilizando el marco de trabajo del modelo del Proceso Unificado. Esto incluye la estructura básica del directorio para organizar los documentos generados del proyecto y las plantillas de dichos documentos que deben utilizarse a lo largo de todo el proceso.
+Esta es una plantilla para la carpeta de un proyecto para estandarizar el proceso y facilitar la gestión del proyectos. Se basa en un proceso de desarrollo de software, pero puede ser utilizado por cualquier tipo de proyecto. La carpeta incluye la estructura básica de carpetas para organizar los documentos generados del proyecto y las plantillas de dichos documentos que se deben utilizar durante todo el proceso.
 
 ## General Information / Información General
 
@@ -38,30 +38,30 @@ Para generar los documentos se utilizan diferentes herramientas o son sugeridas 
 
 The tools used or suggested are:
 
-* Microsoft Word&copy; 2010
+* Microsoft Word&copy; 2013
 	* Preferred word processor for the document templates. | Alternatives: LibreOffice Writer, OpenOffice Writer.
 * 
 
 Las herramientas utilizadas o sugeridas son:
 
-* Microsoft Word&copy; 2010
+* Microsoft Word&copy; 2013
 	* Procesador de palabras preferido para las plantillas de documentos. | Alternativas: LibreOffice Writer, OpenOffice Writer.
 *
 
 #### Files / Archivos
 
 * Document Templates
-	* Extension: .dotx | Format: Microsoft Word&copy; 2010
+	* Extension: .dotx | Format: Microsoft Word&copy; 2013
 	* Please note that any of the alternative applications may not display this document's formatting correctly.
 * 
 
 * Plantillas de Documentos
-	* Extensión: .dotx | Formato: Microsoft Word&copy; 2010
+	* Extensión: .dotx | Formato: Microsoft Word&copy; 2013
 	* Se debe tomar en cuenta que cualquier aplicación alternativa puede no desplegar correctamente el formato del documento.
 * 
 
 ## Further Information / Más información
 
-For further information please read the [en/README.md](en/README.md) file, as this contains a short description of CMMI L2 and UP along with the description of the contents and usage of this package.
+For further information please read the [en/README.md](en/README.md) file, as this contains the description of the contents and usage of this package.
 
-Para más información por favor lea el archivo [es/README.md](es/README.md) ya que contiene una breve descripción de CMMI N2 y UP junto con la descripción del contenido y utilización de este paquete.
+Para más información por favor lea el archivo [es/README.md](es/README.md) ya que contiene la descripción del contenido y utilización de este paquete.
