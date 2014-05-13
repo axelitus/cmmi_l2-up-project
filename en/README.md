@@ -22,49 +22,47 @@ The whole folder structure is explained in detail in the [STRUCTURE.md](STRUCTUR
 
 The suggested naming conventions to be used for filenames are as follows:
 
-* The filenames should use the [Pascal Case Notation (or Upper Camel Case Notation)](http://en.wikipedia.org/wiki/CamelCase) which capitalizes the first character of each word (including acronyms over two letters in length). For words (or acronyms) that consist of two or fewer letters the Upper Case Notation should be used (all letters are capitalized).
+1. The filenames should follow a pre-defined form explained below. This pattern should be defined on a project basis and used across all filenames inside it.
 
-Examples:
+	Pattern:
+	
+		(<prefix>_)<name>(_<suffix>)(.<extension>)
+	
+	Tag explanation:
+	
+	* _(Optional)_ `<prefix>`: Is a pre-name string. This is usually set to the code of the project. This can also be set to the file creation date.
+	* _(Required)_ `<name>`: This part of the pattern is the significative and descriptive filename that summarizes the content of the file.
+	* _(Optional)_ `<suffix>`: Is a post-name string. This is usually set to the version of the document to track changes (when no [VCS](http://en.wikipedia.org/wiki/Revision_control) is being used). This can also be set to the file creation date.
+	* _(Optional)_ `<extension>`: Is the file extension when appropriate.
+	
+	**Important:** The `_` _(underscore)_ character should not be used inside any of the tags, it is meant as a separator between the pattern parts and should only be included when a prefix and/or suffix are present.
 
-	ProjectRoiEvaluation
-	Usability
-	QualityControl
-	HWRequirements
+2. In general, the file name should use the [Pascal Case Notation (or Upper Camel Case Notation)](http://en.wikipedia.org/wiki/CamelCase) which capitalizes the first character of each word (including acronyms over two letters in length). For words (or acronyms) that consist of two or fewer letters the Upper Case Notation should be used (all letters are capitalized).
 
-* No special characters should be used in the names. All characters should be changed for their non-special character equivalent.
+	Examples:
+	
+		ProjectRoiEvaluation
+		Usability
+		QualityControl
+		HWRequirements
 
-Examples:
+3. No special characters should be used in the names. All characters should be changed for their non-special character equivalent.
 
-	Evaluación ---> Evaluacion
-	Tamaño ---> Tamano
+	Examples:
+	
+		Evaluación ---> Evaluacion
+		Tamaño ---> Tamano
+	
+	Most common special characters conversions:
+	
+		[Á, Ä], [á, ä] ---> [A], [a]
+		[É, Ë], [é, ë] ---> [E], [e]
+		[Í, Ï], [í, ï] ---> [I], [i]
+		[Ó, Ö], [ó, ö] ---> [O], [o]
+		[Ú, Ü], [ú, ü] ---> [U], [u]
+		[Ñ], [ñ] ---> [N], [n]
 
-Most common special characters conversions:
-
-	[Á, Ä], [á, ä] ---> [A], [a]
-	[É, Ë], [é, ë] ---> [E], [e]
-	[Í, Ï], [í, ï] ---> [I], [i]
-	[Ó, Ö], [ó, ö] ---> [O], [o]
-	[Ú, Ü], [ú, ü] ---> [U], [u]
-	[Ñ], [ñ] ---> [N], [n]
-
-* The filenames should follow a pre-defined form explained below. This pattern should be defined on a project basis and used across all filenames inside it.
-
-Pattern:
-
-	(<prefix>_)<name>(_<suffix>)(.<extension>)
-
-Tag explanation:
-
-* _(Optional)_ `<prefix>`: Is a pre-name string. This is usually set to the code of the project. This can also be set to the file creation date.
-* _(Required)_ `<name>`: This part of the pattern is the significative and descriptive filename that summarizes the content of the file.
-* _(Optional)_ `<suffix>`: Is a post-name string. This is usually set to the version of the document to track changes (when no [VCS](http://en.wikipedia.org/wiki/Revision_control) is being used). This can also be set to the file creation date.
-* _(Optional)_ `<extension>`: Is the file extension when appropriate.
-
-**Important:** The `_` _(underscore)_ character should not be used inside any of the tags, it is meant as a separator between the pattern parts and should only be included when a prefix and/or suffix are present.
-
-## File Versioning
-
-The file versioning should follow the concepts behind the rules set forth in the [Semanting Versioning Specification v2.0.0](http://semver.org/spec/v2.0.0.html).
+4. The file versioning scheme should follow the concepts behind the rules set forth in the [Semanting Versioning Specification v2.0.0](http://semver.org/spec/v2.0.0.html).
 
 ## Templates
 

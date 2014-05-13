@@ -22,49 +22,47 @@ Toda la estructura de directorio se explica en el archivo [STRUCTURE.md](STRUCTU
 
 Las convenciones sugeridas para el nombramiento de archivos son las siguientes:
 
-* Los nombres de archivo deben utilizar la [Notación Pascal (o Notación Upper Camel Case)](http://es.wikipedia.org/wiki/CamelCase) que utiliza mayúsculas en la primera letra de cada palabra (incluyendo acrónimos de más de dos letras de longitud). Por palabras (o siglas) que consistan de dos o menos letras se debe usar la Notación de Mayúsculas (todas las letras en mayúsculas).
+1. Los nombres de archivo deben seguir una forma predefinida explicada a continuación. Este patrón se debe definir por proyecto y se debe utilizar en todos los nombres de archivo dentro del mismo.
 
-Ejemplos:
+	Patrón:
+	
+		(<prefijo>_)<nombre>(_<sufijo>)(.<extension>)
+	
+	Explicación de etiquetas:
+	
+	* _(Opcional)_ `<prefijo>`: Es una cadena que antecede al nombre. Normalmente se establece como el código del proyecto. También se puede utilizar la fecha de creación del archivo.
+	* _(Requerido)_ `<nombre>`: Esta parte del patrón es el nombre significativo y descriptivo del archivo que resume el contenido del mismo.
+	* _(Opcional)_ `<sufijo>`: Es una cadena que sucede al nombre. Generalmente se establece como la versión del documento para tener un seguimiento de cambios (cuando no se utiliza ningún [SCV](http://es.wikipedia.org/wiki/Control_de_versiones)). También se puede utilizar la fecha de creación del archivo.
+	* _(Opcional)_ `<extension>`: Es la extensión del archivo cuándo sea pertinente.
+	
+	**Importante:** El caracter `_` _(guión bajo)_ no debe ser utilizado en el interior de cualquiera de las etiquetas, simboliza una separación entre las partes del patrón y debe ser incluida solamente cuando el prefijo y/o sufijo estén presentes.
 
-	EvaluacionRoiDeProyecto
-	Usabilidad
-	ControlDeCalidad
-	RequerimientosDeHW
+2. En general, el nombre de archivo debe utilizar la [Notación Pascal (o Notación Upper Camel Case)](http://es.wikipedia.org/wiki/CamelCase) que utiliza mayúsculas en la primera letra de cada palabra (incluyendo acrónimos de más de dos letras de longitud). Por palabras (o siglas) que consistan de dos o menos letras se debe usar la Notación de Mayúsculas (todas las letras en mayúsculas).
 
-* No se deben utilizar caracteres especiales en los nombres. Todos los caracteres especiales deben ser cambiados por su caracter simple equivalente.
+	Ejemplos:
+	
+		EvaluacionRoiDeProyecto
+		Usabilidad
+		ControlDeCalidad
+		RequerimientosDeHW
 
-Ejemplos:
+3. No se deben utilizar caracteres especiales en los nombres. Todos los caracteres especiales deben ser cambiados por su caracter simple equivalente.
 
-	Evaluación ---> Evaluacion
-	Tamaño ---> Tamano
+	Ejemplos:
+	
+		Evaluación ---> Evaluacion
+		Tamaño ---> Tamano
+	
+	Conversión de caracteres especiales más comunes:
+	
+		[Á, Ä], [á, ä] ---> [A], [a]
+		[É, Ë], [é, ë] ---> [E], [e]
+		[Í, Ï], [í, ï] ---> [I], [i]
+		[Ó, Ö], [ó, ö] ---> [O], [o]
+		[Ú, Ü], [ú, ü] ---> [U], [u]
+		[Ñ], [ñ] ---> [N], [n]
 
-Conversión de caracteres especiales más comunes:
-
-	[Á, Ä], [á, ä] ---> [A], [a]
-	[É, Ë], [é, ë] ---> [E], [e]
-	[Í, Ï], [í, ï] ---> [I], [i]
-	[Ó, Ö], [ó, ö] ---> [O], [o]
-	[Ú, Ü], [ú, ü] ---> [U], [u]
-	[Ñ], [ñ] ---> [N], [n]
-
-* Los nombres de archivo deben seguir una forma predefinida explicada a continuación. Este patrón se debe definir por proyecto y se debe utilizar en todos los nombres de archivo dentro del mismo.
-
-Patrón:
-
-	(<prefijo>_)<nombre>(_<sufijo>)(.<extension>)
-
-Explicación de etiquetas:
-
-* _(Opcional)_ `<prefijo>`: Es una cadena que antecede al nombre. Normalmente se establece como el código del proyecto. También se puede utilizar la fecha de creación del archivo.
-* _(Requerido)_ `<nombre>`: Esta parte del patrón es el nombre significativo y descriptivo del archivo que resume el contenido del mismo.
-* _(Opcional)_ `<sufijo>`: Es una cadena que sucede al nombre. Generalmente se establece como la versión del documento para tener un seguimiento de cambios (cuando no se utiliza ningún [SCV](http://es.wikipedia.org/wiki/Control_de_versiones)). También se puede utilizar la fecha de creación del archivo.
-* _(Opcional)_ `<extension>`: Es la extensión del archivo cuándo sea pertinente.
-
-**Importante:** El caracter `_` _(guión bajo)_ no debe ser utilizado en el interior de cualquiera de las etiquetas, simboliza una separación entre las partes del patrón y debe ser incluida solamente cuando el prefijo y/o sufijo estén presentes.
-
-## Versionamiento de archivos
-
-El versionamiento de archivos deberá seguir los conceptos detrás de las reglas enunciadas en la [Especificación de Versionamiento Semántico v2.0.0](http://semver.org/spec/v2.0.0.html).
+4. El esquema de versionamiento de archivos deberá seguir los conceptos detrás de las reglas enunciadas en la [Especificación de Versionamiento Semántico v2.0.0](http://semver.org/spec/v2.0.0.html).
 
 ## Plantillas
 
@@ -80,6 +78,6 @@ debe almacenarse en el directorio:
 
 con nombre de archivo:
 
-	MIPROY_EvaluacionROIDeProyecto_v1.0.docx
+	MIPROY_EvaluacionRoiDeProyecto_v1.0.docx
 
 El `<prefijo>`, `<sufijo>` y `<extension>` utilizados en este ejemplo son `MIPROY`, `v1.0` y `docx` respectivamente.
