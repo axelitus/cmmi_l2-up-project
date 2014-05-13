@@ -18,19 +18,6 @@ The folder structure is divided and organized by content and not by process step
 
 The whole folder structure is explained in detail in the [STRUCTURE.md](STRUCTURE.md) file which contains all subfolders explanation.
 
-## Templates
-
-The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore \_ whereas the last group is the document's generic name (it's purpose is also self-explanatory).
-
-Example:
-
-	Filename: Management_BusinessAnalysis_BusinessCases_ProjectRoiEvaluation.dotx
-	
-	Folder: Management/BusinessAnalysis/BusinessCases/
-	Filename: <prefix>_ProjectRoiEvaluation_<suffix>.docx
-
-The `<prefix>` y `<suffix>` are explained in the [Naming Conventions](#naming-conventions) section.
-
 ## Naming Conventions
 
 The suggested naming conventions to be used for filenames are as follows:
@@ -58,4 +45,38 @@ Most common special characters conversions:
 	[Í, Ï], [í, ï] ---> [I], [i]
 	[Ó, Ö], [ó, ö] ---> [O], [o]
 	[Ú, Ü], [ú, ü] ---> [U], [u]
-	[Ñ], [ñ] ---> [N], [n] 
+	[Ñ], [ñ] ---> [N], [n]
+
+* The filenames should follow a pre-defined form explained below. This pattern should be defined on a project basis and used across all filenames inside it.
+
+Pattern:
+
+	(<prefix>_)<name>(_<suffix>)(.<extension>)
+
+Tag explanation:
+
+* _(Optional)_ `<prefix>`: Is a pre-name string. This is usually set to the code of the project. This can also be set to the file creation date.
+* _(Required)_ `<name>`: This part of the pattern is the significative and descriptive filename that summarizes the content of the file.
+* _(Optional)_ `<suffix>`: Is a post-name string. This is usually set to the version of the document to track changes (when no [VCS](http://en.wikipedia.org/wiki/Revision_control) is being used). This can also be set to the file creation date.
+* _(Optional)_ `<extension>`: Is the file extension when appropriate.
+
+**Important:** The `_` _(underscore)_ character should not be used inside any of the tags, it is meant as a separator between the pattern parts and should only be included when a prefix and/or suffix are present. 
+
+## Templates
+
+The templates are not organized by folder as this facilitates searching for a specific template. Instead they have a self-explanatory name which includes the path to be used by the generated document. Every directory in the filename is separated by an underscore \_ whereas the last group is the document's generic name (it's purpose is also self-explanatory).
+
+A document based on the template:
+
+	Management_BusinessAnalysis_BusinessCases_ProjectRoiEvaluation.dotx
+
+should be saved in:
+
+	Management/BusinessAnalysis/BusinessCases/
+
+with filename:
+
+	MYPROJ_ProjectRoiEvaluation_v1.0.docx
+
+The `<prefix>`, `<suffix>` and `<extension>` parts used in this example are `MYPROJ`, `v1.0` and `docx` respectively.
+
