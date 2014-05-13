@@ -24,11 +24,38 @@ Las plantillas no están organizadas por directorio ya que esto facilita la bús
 
 Ejemplo:
 
-	Nombre de archivo: Administracion_AnalisisNegocio_CasosNegocio_Evaluacion ROI de Proyecto.dotx
+	Nombre de archivo: Administracion_AnalisisNegocio_CasosNegocio_EvaluacionRoiDeProyecto.dotx
 	
 	Directorio: Administracion/AnalisisNegocio/CasosNegocio/
-	Nombre de archivo: <prefijo> - Evaluacion ROI de Proyecto - <sufijo>.docx
+	Nombre de archivo: <prefijo>_EvaluacionROIDeProyecto_<sufijo>.docx
+
+El `<prefijo>` y `<sufijo>` son explicados en la sección de [Convenciones de Nombramiento](#convenciones-de-nombramiento).
 
 ## Convenciones de Nombramiento
 
 Las convenciones sugeridas para el nombramiento de archivos son las siguientes:
+
+* Los nombres de archivo deben utilizar la [Notación Pascal (o Notación Upper Camel Case)](http://es.wikipedia.org/wiki/CamelCase) que utiliza mayúsculas en la primera letra de cada palabra (incluyendo acrónimos de más de dos letras de longitud). Por palabras (o siglas) que consistan de dos o menos letras se debe usar la Notación de Mayúsculas (todas las letras en mayúsculas).
+
+Ejemplos:
+
+	EvaluacionRoiDeProyecto
+	Usabilidad
+	ControlDeCalidad
+	RequerimientosDeHW
+
+* No se deben utilizar caracteres especiales en los nombres. Todos los caracteres especiales deben ser cambiados por su caracter simple equivalente.
+
+Ejemplos:
+
+	Evaluación ---> Evaluacion
+	Tamaño ---> Tamano
+
+Conversión de caracteres especiales más comunes:
+
+	[Á, Ä], [á, ä] ---> [A], [a]
+	[É, Ë], [é, ë] ---> [E], [e]
+	[Í, Ï], [í, ï] ---> [I], [i]
+	[Ó, Ö], [ó, ö] ---> [O], [o]
+	[Ú, Ü], [ú, ü] ---> [U], [u]
+	[Ñ], [ñ] ---> [N], [n]

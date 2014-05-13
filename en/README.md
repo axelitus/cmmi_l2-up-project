@@ -24,11 +24,38 @@ The templates are not organized by folder as this facilitates searching for a sp
 
 Example:
 
-	Filename: Management_BusinessAnalysis_BusinessCases_Project ROI Evaluation.dotx
+	Filename: Management_BusinessAnalysis_BusinessCases_ProjectRoiEvaluation.dotx
 	
 	Folder: Management/BusinessAnalysis/BusinessCases/
-	Filename: <prefix> - Project ROI Evaluation - <suffix>.docx
+	Filename: <prefix>_ProjectRoiEvaluation_<suffix>.docx
+
+The `<prefix>` y `<suffix>` are explained in the [Naming Conventions](#naming-conventions) section.
 
 ## Naming Conventions
 
 The suggested naming conventions to be used for filenames are as follows:
+
+* The filenames should use the [Pascal Case Notation (or Upper Camel Case Notation)](http://en.wikipedia.org/wiki/CamelCase) which capitalizes the first character of each word (including acronyms over two letters in length). For words (or acronyms) that consist of two or fewer letters the Upper Case Notation should be used (all letters are capitalized).
+
+Examples:
+
+	ProjectRoiEvaluation
+	Usability
+	QualityControl
+	HWRequirements
+
+* No special characters should be used in the names. All characters should be changed for their non-special character equivalent.
+
+Examples:
+
+	Evaluación ---> Evaluacion
+	Tamaño ---> Tamano
+
+Most used special characters conversions:
+
+	[Á, Ä], [á, ä] ---> [A], [a]
+	[É, Ë], [é, ë] ---> [E], [e]
+	[Í, Ï], [í, ï] ---> [I], [i]
+	[Ó, Ö], [ó, ö] ---> [O], [o]
+	[Ú, Ü], [ú, ü] ---> [U], [u]
+	[Ñ], [ñ] ---> [N], [n] 
