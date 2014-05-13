@@ -60,7 +60,11 @@ Explicación de etiquetas:
 * _(Opcional)_ `<sufijo>`: Es una cadena que sucede al nombre. Generalmente se establece como la versión del documento para tener un seguimiento de cambios (cuando no se utiliza ningún [SCV](http://es.wikipedia.org/wiki/Control_de_versiones)). También se puede utilizar la fecha de creación del archivo.
 * _(Opcional)_ `<extension>`: Es la extensión del archivo cuándo sea pertinente.
 
-**Importante:** El caracter `_` _(guión bajo)_ no debe ser utilizado en el interior de cualquiera de las etiquetas, simboliza una separación entre las partes del patrón y debe ser incluida solamente cuando el prefijo y/o sufijo estén presentes. 
+**Importante:** El caracter `_` _(guión bajo)_ no debe ser utilizado en el interior de cualquiera de las etiquetas, simboliza una separación entre las partes del patrón y debe ser incluida solamente cuando el prefijo y/o sufijo estén presentes.
+
+## Versionamiento de archivos
+
+El versionamiento de archivos deberá seguir los conceptos detrás de las reglas enunciadas en la [Especificación de Versionamiento Semántico v2.0.0](http://semver.org/spec/v2.0.0.html).
 
 ## Plantillas
 

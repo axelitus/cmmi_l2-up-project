@@ -60,7 +60,11 @@ Tag explanation:
 * _(Optional)_ `<suffix>`: Is a post-name string. This is usually set to the version of the document to track changes (when no [VCS](http://en.wikipedia.org/wiki/Revision_control) is being used). This can also be set to the file creation date.
 * _(Optional)_ `<extension>`: Is the file extension when appropriate.
 
-**Important:** The `_` _(underscore)_ character should not be used inside any of the tags, it is meant as a separator between the pattern parts and should only be included when a prefix and/or suffix are present. 
+**Important:** The `_` _(underscore)_ character should not be used inside any of the tags, it is meant as a separator between the pattern parts and should only be included when a prefix and/or suffix are present.
+
+## File Versioning
+
+The file versioning should follow the concepts behind the rules set forth in the [Semanting Versioning Specification v2.0.0](http://semver.org/spec/v2.0.0.html).
 
 ## Templates
 
