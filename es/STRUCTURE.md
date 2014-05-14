@@ -4,8 +4,7 @@ En este documento se explica a detalle la estructura del directorio, así como e
 
 ## Índice
 
-### ![](../res/folder_16x16.png) [Administracion](#administracion)
-
+**![](../res/folder_16x16.png) [Administracion](#administracion)**<br/>
 ![](../res/folder_16x16.png) [Administracion/AnalisisNegocio](#administracion-analisisnegocio)<br/>
 ![](../res/folder_16x16.png) [Administracion/AnalisisNegocio/CasosNegocio](#adminstracion-analisisnegocio-casosnegocio)<br/>
 ![](../res/folder_16x16.png) [Administracion/AnalisisNegocio/Organigramas](#administracion-analisisnegocio-organigramas)<br/>
@@ -44,15 +43,13 @@ En este documento se explica a detalle la estructura del directorio, así como e
 ![](../res/folder_16x16.png) [Administracion/Requerimientos/Propuestas](#administracion-requerimientos-propuestas)<br/>
 ![](../res/folder_16x16.png) [Administracion/Riesgos](#administracion-riesgos)<br/>
 
-### ![](../res/folder_16x16.png) [Arquitectura](#arquitectura)
-
+**![](../res/folder_16x16.png) [Arquitectura](#arquitectura)**<br/>
 ![](../res/folder_16x16.png) [Arquitectura/Diagramas](#arquitectura-diagramas)<br/>
 ![](../res/folder_16x16.png) [Arquitectura/FlujosTrabajo](#arquitectura-flujostrabajo)<br/>
 ![](../res/folder_16x16.png) [Arquitectura/Modelos](#arquitectura-modelos)<br/>
 ![](../res/folder_16x16.png) [Arquitectura/Prototipos](#arquitectura-prototipos)<br/>
 
-### ![](../res/folder_16x16.png) [Desarrollo](#desarrollo)
-
+**![](../res/folder_16x16.png) [Desarrollo](#desarrollo)**<br/>
 ![](../res/folder_16x16.png) [Desarrollo/BaseDeDatos](#desarrollo-basededatos)<br/>
 ![](../res/folder_16x16.png) [Desarrollo/BaseDeDatos/Modelos](#desarrollo-basededatos-modelos)<br/>
 ![](../res/folder_16x16.png) [Desarrollo/BaseDeDatos/Respaldos](#desarrollo-basededatos-respaldos)<br/>
@@ -68,20 +65,18 @@ En este documento se explica a detalle la estructura del directorio, así como e
 ![](../res/folder_16x16.png) [Desarrollo/Recursos/Imagenes](#desarrollo-recursos-imagenes)<br/>
 ![](../res/folder_16x16.png) [Desarrollo/Recursos/Video](#desarrollo-recursos-video)<br/>
 
-### ![](../res/folder_16x16.png) [Entregables](#entregables)
-
+**![](../res/folder_16x16.png) [Entregables](#entregables)**<br/>
 ![](../res/folder_16x16.png) [Entregables/Liberaciones](#entregables-liberaciones)<br/>
 ![](../res/folder_16x16.png) [Entregables/Manuales](#entregables-manuales)<br/>
 ![](../res/folder_16x16.png) [Entregables/Paquetes](#entregables-paquetes)<br/>
 
-### ![](../res/folder_16x16.png) [Herramientas](#herramientas)
+**![](../res/folder_16x16.png) [Herramientas](#herramientas)**<br/>
 
-### ![](../res/folder_16x16.png) [Mantenimiento](#mantenimiento)
+**![](../res/folder_16x16.png) [Mantenimiento](#mantenimiento)**<br/>
 
-### ![](../res/folder_16x16.png) [Plantillas](#plantillas)
+**![](../res/folder_16x16.png) [Plantillas](#plantillas)**<br/>
 
-### ![](../res/folder_16x16.png) [Precedentes](#precedentes)
-
+**![](../res/folder_16x16.png) [Precedentes](#precedentes)**<br/>
 ![](../res/folder_16x16.png) [Precedentes/Archivos](#precedentes-archivos)<br/>
 ![](../res/folder_16x16.png) [Precedentes/Documentos](#precedentes-documentos)<br/>
 ![](../res/folder_16x16.png) [Precedentes/Recursos](#precedentes-recursos)<br/>
@@ -98,9 +93,9 @@ En este documento se explica a detalle la estructura del directorio, así como e
 ![](../res/folder_16x16.png) [Precedentes/VersionesAnteriores/Recursos/Imagenes](#precedentes-versionesanteriores-recursos-imagenes)<br/>
 ![](../res/folder_16x16.png) [Precedentes/VersionesAnteriores/Recursos/Video](#precedentes-versionesanteriores-recursos-video)<br/>
 
-### ![](../res/folder_16x16.png) [Referencias](#referencias)
+**![](../res/folder_16x16.png) [Referencias](#referencias)**<br/>
 
-### ![](../res/folder_16x16.png) [tmp](#tmp)
+**![](../res/folder_16x16.png) [tmp](#tmp)**<br/>
 
 ## <a name="administracion"></a> Administracion
 
