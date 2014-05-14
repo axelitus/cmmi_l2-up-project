@@ -1,6 +1,6 @@
 # Estructura de Directorio
 
-En este documento se explica a detalle la estructura del directorio, así como el propósito de cada una de las carpetas y que tipo de documentos deben guardarse en ellas. Las carpetas están organizadas por tipo de documento (como categoría del contenido), no por su formato (extensión).
+En este documento se explica a detalle la estructura del directorio, así como el propósito de cada una de las carpetas y que tipo de documentos deben guardarse en ellas. Las carpetas están organizadas por tipo de documento (categoría del contenido), no por su formato (extensión de archivo).
 
 ## Índice
 
