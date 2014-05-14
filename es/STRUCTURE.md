@@ -6,7 +6,7 @@ En este documento se explica a detalle la estructura del directorio, así como e
 
 **![](../res/folder_16x16.png) [Administracion](#administracion)**<br/>
 ![](../res/folder_16x16.png) [Administracion/AnalisisNegocio](#administracion-analisisnegocio)<br/>
-![](../res/folder_16x16.png) [Administracion/AnalisisNegocio/CasosNegocio](#adminstracion-analisisnegocio-casosnegocio)<br/>
+![](../res/folder_16x16.png) [Administracion/AnalisisNegocio/CasosNegocio](#administracion-analisisnegocio-casosnegocio)<br/>
 ![](../res/folder_16x16.png) [Administracion/AnalisisNegocio/Organigramas](#administracion-analisisnegocio-organigramas)<br/>
 ![](../res/folder_16x16.png) [Administracion/AnalisisNegocio/ProcesosNegocio](#administracion-analisisnegocio-procesosnegocio)<br/>
 ![](../res/folder_16x16.png) [Administracion/AseguramientoCalidad](#administracion-aseguramientocalidad)<br/>
