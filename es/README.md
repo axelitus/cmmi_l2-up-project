@@ -4,7 +4,7 @@ Esta estructura de proyecto es compatible con los estándares [CMMI-DEV v1.3 Niv
 
 ## Estructura de Directorio
 
-La estructura de directorio está dividida y organizada por contenido y no por etapas del proyecto. Hay 9 directorios de Primer Nivel que contienen todos los productos de trabajo o archivos relacionados al proyecto. Su contenido se explica a continuación (ordenados por nombre):
+La estructura de directorio está dividida y organizada por contenido y no por etapas del proyecto o formatos de archivo. Hay 9 directorios de Primer Nivel que contienen todos los productos de trabajo o archivos relacionados al proyecto. Su contenido se explica a continuación (ordenados por nombre):
 
 * **Administracion:** Contiene todos los archivos del proyecto relativos a la administración del proyecto (análisis de negocio, administración de configuración, monitoreo, políticas, requerimientos, ...).
 * **Arquitectura:** Contiene todos los archivos de arquitectura / flujos de trabajo del proyecto (UML, modelos, clases, prototipos, definición de flujos de trabajo, ...).
@@ -17,6 +17,8 @@ La estructura de directorio está dividida y organizada por contenido y no por e
 * **tmp:** Este es un directorio temporal para cualquier propósito.
 
 Toda la estructura de directorio se explica en el archivo [STRUCTURE.md](STRUCTURE.md) a detalle, el cual contiene la explicación de todas las sub-carpetas.
+
+**Nota:** Se puede extender la estructura de directorio con nuevas sub carpetas conforme sea requerido, siempre y cuando se sigan las convenciones de nombramiento explicadas posteriormente.
 
 ## Convenciones de Nombramiento
 

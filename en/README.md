@@ -18,6 +18,8 @@ The folder structure is divided and organized by content and not by process step
 
 The whole folder structure is explained in detail in the [STRUCTURE.md](STRUCTURE.md) file which contains all subfolders explanation.
 
+**Note:** The folder structure can be extended with new sub folders as required, provided they follow the naming conventions explained further on.
+
 ## Naming Conventions
 
 The suggested naming conventions to be used for filenames are as follows:
